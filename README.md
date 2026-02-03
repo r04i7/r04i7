@@ -2,17 +2,17 @@
 
 ### Senior Application Security Engineer | CVE Researcher | VAPT Specialist
 
-[cite_start]I am a security professional with **5+ years of experience** specializing in web application security, mobile penetration testing, and API security assessments[cite: 7]. [cite_start]Currently, I work as a **Senior Security Consultant at Black Duck (Synopsys)**, where I lead assessments and mentor junior teams[cite: 10, 11].
+I am a security professional with **5+ years of experience** specializing in web application security, mobile penetration testing, and API security assessments. Currently, I work as a **Senior Security Consultant at Black Duck (Synopsys)**, where I lead assessments and mentor junior teams.
 
-- [cite_start]🔭 I’m currently working on **Advanced Mobile Security & Automation Frameworks** [cite: 14, 17]
+- 🔭 I’m currently working on **Advanced Mobile Security & Automation Frameworks** 
 - 🛡️ **CVE Research:** Discovered and disclosed:
   - [CVE-2024-35581](https://nvd.nist.gov/vuln/detail/CVE-2024-35581)
   - [CVE-2024-35582](https://nvd.nist.gov/vuln/detail/CVE-2024-35582)
   - [CVE-2024-35583](https://nvd.nist.gov/vuln/detail/CVE-2024-35583)
-- [cite_start]🌱 I’m currently pursuing **Offensive Security Certified Professional (OSCP)** [cite: 55]
-- [cite_start]🎓 I hold **CEH** and **LPT** certifications [cite: 56, 57]
-- [cite_start]💬 Ask me about **Web/Mobile VAPT, Secure SDLC, and Threat Modeling** [cite: 30, 50]
-- [cite_start]📍 Based in **Bengaluru, Karnataka, India** [cite: 6]
+-  🌱 I’m currently pursuing **Offensive Security Certified Professional (OSCP)**
+-  🎓 I hold **CEH** and **LPT** certifications 
+-  💬 Ask me about **Web/Mobile VAPT, Secure SDLC, and Threat Modeling**
+-  📍 Based in **Bengaluru, Karnataka, India**
 
 ---
 
