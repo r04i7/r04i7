@@ -4,15 +4,15 @@
 
 I am a security professional with **5+ years of experience** specializing in web application security, mobile penetration testing, and API security assessments. Currently, I work as a **Senior Security Consultant at Black Duck (Synopsys)**, where I lead assessments and mentor junior teams.
 
-- 🔭 I’m currently working on **Advanced Mobile Security & Automation Frameworks** 
+- 🔭 I’m currently working on **Advanced Mobile Security & Automation Frameworks**
 - 🛡️ **CVE Research:** Discovered and disclosed:
   - [CVE-2024-35581](https://nvd.nist.gov/vuln/detail/CVE-2024-35581)
   - [CVE-2024-35582](https://nvd.nist.gov/vuln/detail/CVE-2024-35582)
   - [CVE-2024-35583](https://nvd.nist.gov/vuln/detail/CVE-2024-35583)
--  🌱 I’m currently pursuing **Offensive Security Certified Professional (OSCP)**
--  🎓 I hold **CEH** and **LPT** certifications 
--  💬 Ask me about **Web/Mobile VAPT, Secure SDLC, and Threat Modeling**
--  📍 Based in **Bengaluru, Karnataka, India**
+- 🌱 I’m currently pursuing **Offensive Security Certified Professional (OSCP)**
+- 🎓 I hold **CEH** and **LPT** certifications
+- 💬 Ask me about **Web/Mobile VAPT, Secure SDLC, and Threat Modeling**
+- 📍 Based in **Bengaluru, Karnataka, India**
 
 ---
 
@@ -57,17 +57,11 @@ I am a security professional with **5+ years of experience** specializing in web
 
 ## 🚀 Featured Projects
 
-<p align="center">
-<a href="https://github.com/r04i7/ios-otool-binary-security-checker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r04i7&repo=ios-otool-binary-security-checker&theme=dark" />
-</a>
-<a href="https://github.com/r04i7/r047i_lfi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r04i7&repo=r047i_lfi&theme=dark" />
-</a>
-<a href="https://github.com/r04i7/s3-buckets-finder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r04i7&repo=s3-buckets-finder&theme=dark" />
-</a>
-</p>
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[ios-otool-binary-checker](https://github.com/r04i7/ios-otool-binary-security-checker)** | Automated security checker for iOS binaries using otool to identify missing security flags. | `Bash` `Python` |
+| **[r047i_lfi](https://github.com/r04i7/r047i_lfi)** | A specialized tool for scanning and exploiting Local File Inclusion (LFI) vulnerabilities. | `Python` |
+| **[s3-buckets-finder](https://github.com/r04i7/s3-buckets-finder)** | Reconnaissance tool designed to discover exposed public S3 buckets. | `Python` |
 
 ---
 
