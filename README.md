@@ -2,14 +2,17 @@
 
 ### Senior Application Security Engineer | CVE Researcher | VAPT Specialist
 
-I am a security professional with **5+ years of experience** specializing in web application security, mobile penetration testing, and API security assessments. Currently, I work as a **Senior Security Consultant at Black Duck (Synopsys)**, where I lead assessments and mentor junior teams.
+[cite_start]I am a security professional with **5+ years of experience** specializing in web application security, mobile penetration testing, and API security assessments[cite: 7]. [cite_start]Currently, I work as a **Senior Security Consultant at Black Duck (Synopsys)**, where I lead assessments and mentor junior teams[cite: 10, 11].
 
-- 🔭 I’m currently working on **Advanced Mobile Security & Automation Frameworks**
-- 🛡️ **CVE Research:** Discovered **CVE-2024-35581, CVE-2024-35582, CVE-2024-35583**
-- 🌱 I’m currently pursuing **Offensive Security Certified Professional (OSCP)**
-- 🎓 I hold **CEH** and **LPT** certifications
-- 💬 Ask me about **Web/Mobile VAPT, Secure SDLC, and Threat Modeling**
-- 📍 Based in **Bengaluru, Karnataka, India**
+- [cite_start]🔭 I’m currently working on **Advanced Mobile Security & Automation Frameworks** [cite: 14, 17]
+- 🛡️ **CVE Research:** Discovered and disclosed:
+  - [CVE-2024-35581](https://nvd.nist.gov/vuln/detail/CVE-2024-35581)
+  - [CVE-2024-35582](https://nvd.nist.gov/vuln/detail/CVE-2024-35582)
+  - [CVE-2024-35583](https://nvd.nist.gov/vuln/detail/CVE-2024-35583)
+- [cite_start]🌱 I’m currently pursuing **Offensive Security Certified Professional (OSCP)** [cite: 55]
+- [cite_start]🎓 I hold **CEH** and **LPT** certifications [cite: 56, 57]
+- [cite_start]💬 Ask me about **Web/Mobile VAPT, Secure SDLC, and Threat Modeling** [cite: 30, 50]
+- [cite_start]📍 Based in **Bengaluru, Karnataka, India** [cite: 6]
 
 ---
 
@@ -29,17 +32,42 @@ I am a security professional with **5+ years of experience** specializing in web
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Security & Platforms
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+### Mobile Security (iOS & Android)
+![Frida](https://img.shields.io/badge/Frida-C60C30?style=for-the-badge&logo=frida&logoColor=white)
+![Objection](https://img.shields.io/badge/Objection-black?style=for-the-badge&logo=terminal&logoColor=white)
+![MobSF](https://img.shields.io/badge/MobSF-1C4E80?style=for-the-badge&logo=mobile&logoColor=white)
+![JADX](https://img.shields.io/badge/JADX-green?style=for-the-badge&logo=android&logoColor=white)
+![3uTools](https://img.shields.io/badge/3uTools-007AFF?style=for-the-badge&logo=apple&logoColor=white)
+
+### Pentesting & Network Tools
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge&logo=nmap&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-005C9C?style=for-the-badge&logo=tenable&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-black?style=for-the-badge&logo=ghidra&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-black?style=for-the-badge&logo=linux&logoColor=white)
 
 ### Protocols & Formats
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+<a href="https://github.com/r04i7/ios-otool-binary-security-checker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r04i7&repo=ios-otool-binary-security-checker&theme=dark" />
+</a>
+<a href="https://github.com/r04i7/r047i_lfi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r04i7&repo=r047i_lfi&theme=dark" />
+</a>
+<a href="https://github.com/r04i7/s3-buckets-finder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r04i7&repo=s3-buckets-finder&theme=dark" />
+</a>
+</p>
 
 ---
 
@@ -51,11 +79,6 @@ I am a security professional with **5+ years of experience** specializing in web
 <img src="https://nirzak-streak-stats.vercel.app/?user=r04i7&theme=dark&hide_border=false" alt="Streak Stats" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r04i7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=r04i7&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
 ---
