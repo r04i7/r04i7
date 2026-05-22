@@ -52,8 +52,8 @@ Currently, I serve as a **Senior Security Consultant at Black Duck (Synopsys)**,
 
 ---
 
-## 📊 Contribution Analytics
 
+## 📊 Contribution Analytics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=r04i7&theme=midnight-owl&hide_border=true&include_all_commits=true&count_private=true" alt="Rohit's GitHub Stats" />
 <br/>
